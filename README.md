@@ -1,0 +1,1 @@
+This is a brief overview (with intentionally ommited details) on the Doubly Predicted Time Series method that I created. This PDF is solely intended to be part of my résumé and it is not a guide on how to implement such method.
